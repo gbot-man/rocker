@@ -30,9 +30,6 @@ then
 - run "docker run -d -p 3000:3000 --name my-app-container my-app:latest" to expose the 3000 port, you can use a different port if you want
 - run "docker ps" to confirm that the docker image is running
 
-- proceed to the software and pick the newly built app, it should be running by now, create a container it
+- proceed to the software and pick the newly built app, it should be running by now, create a container with it
 
 
-- check the remote repo with "git remote -v"
-
-- add remote repo with "git remote add origin https://github.com/gbot-man/doki.git"
